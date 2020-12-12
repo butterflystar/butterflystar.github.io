@@ -1,23 +1,17 @@
-# wirbelstur.me
 ![Wirbelstürme Logo](logo.png)
 
-Wirbelstürme is my first Github project. You can find it 
-
-_You **can** combine them_
+Wirbelstürme is my first Github project. See it live at [wirbelsturm.me](http://wirbelstur.me/).
 
 ## Goals
+
 * the use of HTML, CSS and Javascript
 * uniform design
 * implementation of
   * goal 2.1
   * goal 2.2
 
-
-The ... is live [here.](http://wirbelstur.me/)
-
-
 > Blockquote example
 
+## Miscellaneous
 
-> Blockquote start
-> Blockquote end
+* 
