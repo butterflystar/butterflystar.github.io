@@ -1,4 +1,4 @@
-![Wirbelstürme Logo](logo.png)
+![Wirbelstürme Logo](logo_black.png)
 
 Wirbelstürme is my first Github project. See it live at [wirbelsturm.me](http://wirbelstur.me/).
 
@@ -9,8 +9,6 @@ Wirbelstürme is my first Github project. See it live at [wirbelsturm.me](http:/
 * implementation of
   * goal 2.1
   * goal 2.2
-
-> Blockquote example
 
 ## Miscellaneous
 
