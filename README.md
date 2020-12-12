@@ -1,4 +1,4 @@
-![Wirbelstürme Logo](logo_black.png)
+![Wirbelstürme Logo](logo_monochrome.png)
 
 Wirbelstürme is my first Github project. See it live at [wirbelsturm.me](http://wirbelstur.me/).
 
