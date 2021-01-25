@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Open+Sans:wght@300&display=swap');
+
+@font-face {
+    font-family: "Abril Fatface";
+    src: url(../fonts/Abril_Fatface/AbrilFatface-Regular.ttf);
+}
+
+h1 {
+    font-family: 'Abril Fatface', serif;
+    background-color: white;
+    color: yellowgreen;
+    margin: 1% 2% 3% 1%;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+p:first-letter {
+    color: yellowgreen;
+}
+body, html {
+    height: 100%;
+}
+#parallax1{
+     background-image: url(../img/bag.jpeg);
+ }
+#parallax2{
+    background-image: url(../img/cans.jpeg);
+}
+.paragraph{
+    margin: 5% 4% 2% 2%;
+}
+.parallax {
+    /* filter: blur(8px); */
+    /* The image used */
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
