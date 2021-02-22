@@ -1,0 +1,7 @@
+#pond {
+    display: flex;
+}
+.bg {
+    background-image: url("../images/herbst.JPG");
+    background-size: 60% 60%;
+}
