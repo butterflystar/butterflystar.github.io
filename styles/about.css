@@ -10,52 +10,21 @@
     animation: hue-rotate 6s linear infinite;
 }
 */
-a.external::before {
-    background: transparent url(https://developer.mozilla.org/static/media/external.e091ac5d.svg) 0 0 no-repeat;
-    background-size: 16px;
-    content: "";
-    display: inline-block;
-    height: 16px;
-    margin-right: 3px;
-    width: 16px;
-}
 
+<!-- menu bar -->
 
-
-
-/**
- * By using display: flex
- * Logo and nav are in 2 cols
- * align-items make them
- * vertically centered
- * justify-content distribute
- * horizontal spaces around
- * and flex-wrap break the
- * things in two lines in
- * small screens
- */
-.main-header .container {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    flex-direction: row-reverse;
-    padding: .5% 2% .5% 2%;
-    width: 100%;
-
-}
 .container {
     position: fixed;
     background-color: rgba(256, 256, 256, .9);
 }
-
-
-
-/**
- * The followings are to
- * make things more
- * clean and airy
- * and contents centered
- */
+.main-header .container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; /* small screens */
+    flex-direction: row-reverse;
+    padding: .5% 2% .5% 2%;
+    width: 100%;
+}
 .main-nav ul {
     margin: auto;
     text-align: center;
@@ -65,7 +34,6 @@ a.external::before {
 }
 .main-nav li {
     display: inline;
-
 }
 .main-nav li a {
     font-family: sans-serif;
@@ -79,6 +47,8 @@ a.external::before {
     display: inline-block;
     padding: .5em 1.5em;
 }
+
+<!-- fonts and color -->
 
 h1 {
     font-family: 'Abril Fatface', serif;
